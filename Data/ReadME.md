@@ -1,1 +1,1 @@
-Kaggle Housing Prices Datasheet: Housing.csv. https://www.kaggle.com/datasets/yasserh/housing-prices-dataset ![image](https://github.com/angusmf1/HousePricePrediction/assets/123407626/2efd1466-c571-4eb0-b265-c07554e8b78a)
+Kaggle Housing Prices Datasheet: Housing.csv. https://www.kaggle.com/datasets/yasserh/housing-prices-dataset 
